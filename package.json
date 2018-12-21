@@ -1,0 +1,30 @@
+{
+  "name": "ada",
+  "version": "0.0.1",
+  "description": "ada",
+  "main": "index.js",
+  "scripts": {
+    "test": ""
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Annatsu/Ada.git"
+  },
+  "keywords": [
+    "bot",
+    "personal-assistant",
+    "ai",
+    "nlp",
+    "voice-recognition"
+  ],
+  "author": {
+    "name": "Brendon Pagano",
+    "email": "brendonpagano@gmail.com",
+    "url": "https://github.com/annatsu"
+  },
+  "license": "Apache-2.0",
+  "bugs": {
+    "url": "https://github.com/Annatsu/Ada/issues"
+  },
+  "homepage": "https://github.com/Annatsu/Ada#readme"
+}
