@@ -26,5 +26,8 @@
   "bugs": {
     "url": "https://github.com/Annatsu/Ada/issues"
   },
-  "homepage": "https://github.com/Annatsu/Ada#readme"
+  "homepage": "https://github.com/Annatsu/Ada#readme",
+  "devDependencies": {
+    "electron": "^4.0.0"
+  }
 }
