@@ -4,7 +4,7 @@
   "description": "ada",
   "main": "index.js",
   "scripts": {
-    "test": ""
+    "start": "electron ."
   },
   "repository": {
     "type": "git",
@@ -28,6 +28,7 @@
   },
   "homepage": "https://github.com/Annatsu/Ada#readme",
   "devDependencies": {
-    "electron": "^4.0.0"
+    "electron": "^4.0.0",
+    "eslint": "^5.10.0"
   }
 }
